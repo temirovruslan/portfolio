@@ -1,14 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import logo from "../public/github2.svg";
 
-import React, { useState } from "react";
-import DayNightToggle from "react-day-and-night-toggle";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
+import React from "react";
 
 const Header = () => {
-	const [isDarkMode, setIsDarkMode] = useState(true);
+
 	return (
 		<div className="">
 			<div className=" container my-0 mx-auto py-4 px-4 ">

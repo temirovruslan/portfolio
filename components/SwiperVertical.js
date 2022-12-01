@@ -15,6 +15,7 @@ import Todo from "./Todo";
 import Apple from "./Apple";
 import Skills from "./Skills";
 import GetInTouch from "./GetInTouch";
+import Tipster from "./Tipster";
 
 export default function SwiperVertical() {
 	return (
@@ -33,10 +34,14 @@ export default function SwiperVertical() {
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Apple />
 				</SwiperSlide>
+
+				<SwiperSlide className="text-6xl w-screen h-screen">
+					<Tipster />
+				</SwiperSlide>
+
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Todo />
 				</SwiperSlide>
-
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Skills />
 				</SwiperSlide>

@@ -5,13 +5,13 @@ import React from "react";
 const Apple = () => {
 	return (
 		<div className="w-screen h-screen flex flex-col justify-center items-center px-8">
-			<h2 className="text-2xl md:text-4xl font-semibold mb-8 ">
+			<h2 className="text-2xl md:text-4xl font-semibold mb-12 ">
 				Website on NextJs
 			</h2>
 			<div className="relative mb-8 w-[280px] h-[170px] sm:w-[320px] sm:h-[200px] md:w-[380px] md:h-[250px] lg:w-[500px] lg:h-[320px]">
 				<Image src="/apple.webp" layout="fill" alt="apple" />
 			</div>
-			<p className="text-sm md:text-base lg:text-lg w-3/5  mb-8">
+			<p className="text-base md:text-lg  lg:text-2xl w-3/5  mb-8">
 				Made an apple-clone website fully responsive, where you can
 				purchase apple devices throw Stripe API. Stored date in Sanity.
 				Used Redux-Toolkit for state management

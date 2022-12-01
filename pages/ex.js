@@ -4,7 +4,14 @@ import SwiperVertical from "../components/SwiperVertical";
 const ex = () => {
 	return (
 		<div>
-			<SwiperVertical />
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
+			<div className="bg-black"></div>
 		</div>
 	);
 };

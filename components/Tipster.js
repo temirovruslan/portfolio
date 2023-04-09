@@ -18,7 +18,7 @@ const Tipster = () => {
 				bags, still working on it.
 			</p>
 
-			<Link href="http://phare-official-web.s3-website.eu-central-1.amazonaws.com/">
+			<Link href="https://www.phare-ts.com/">
 				<button className=" transition duration-150 ease-out hover:ease-in opacity-75 text-sm py-1 px-6 rounded-full outline outline-2  outline-offset-2 lg:text-base hover:opacity-100 ">
 					Visit
 				</button>

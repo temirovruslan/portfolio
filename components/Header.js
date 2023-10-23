@@ -11,7 +11,7 @@ const Header = () => {
 		<div className="">
 			<div className=" container my-0 mx-auto py-4 px-4 ">
 				<div className="flex items-center justify-between">
-					<Link href="https://github.com/temirovruslan">
+					<Link href="https://github.com/temirovruslan/github-decoration#readme">
 						<div className="relative w-[45px] h-[45px] md:w-[50px] md:h-[50px] bg-white  rounded-full opacity-75 hover:opacity-100 transition duration-150 ease-in-out">
 							<Image
 								src="/github1.svg"

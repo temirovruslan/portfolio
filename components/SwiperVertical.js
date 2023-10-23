@@ -16,6 +16,7 @@ import Apple from "./Apple";
 import Skills from "./Skills";
 import GetInTouch from "./GetInTouch";
 import Tipster from "./Tipster";
+import Magnus from "./Magnus";
 
 export default function SwiperVertical() {
 	return (
@@ -31,6 +32,10 @@ export default function SwiperVertical() {
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Greeting />
 				</SwiperSlide>
+
+				<SwiperSlide className="text-6xl w-screen h-screen">
+					<Magnus />
+				</SwiperSlide>
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Apple />
 				</SwiperSlide>
@@ -42,6 +47,7 @@ export default function SwiperVertical() {
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Todo />
 				</SwiperSlide>
+
 				<SwiperSlide className="text-6xl w-screen h-screen">
 					<Skills />
 				</SwiperSlide>

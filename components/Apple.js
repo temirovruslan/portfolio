@@ -14,8 +14,8 @@ const Apple = () => {
 			<p className="text-base md:text-lg  lg:text-2xl w-3/5  mb-8">
 				Made an apple-clone website fully responsive in NextJS, where
 				you can purchase apple devices throw Stripe API. Stored date in
-				Sanity. Used Redux-Toolkit for state management. Don't purchase
-				the selected items in the end
+				Sanity. Used Redux-Toolkit for state management. Don`&apos;`t
+				purchase the selected items in the end😁
 			</p>
 
 			<Link href="https://apple-clone-gray.vercel.app/">

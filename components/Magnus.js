@@ -22,12 +22,12 @@ const Todo = () => {
 				customized them to fit our requirements. Practicing Redux
 				Toolkit for performing CRUD operations. We developed a weather
 				app that fetched forecast data for specific locations and saved
-				user's action history in their browser's storage. Additionally,
-				I implemented sorting and filtering functionality. Worked with
-				the Google Maps API to track user locations and movements. I
-				worked together with designers and backend developers to improve
-				the platform's features and capabilities. Platform was build
-				using TypeScript.
+				user`&apos;`s action history in their browser`&apos;`s storage.
+				Additionally, I implemented sorting and filtering functionality.
+				Worked with the Google Maps API to track user locations and
+				movements. I worked together with designers and backend
+				developers to improve the platform`&apos;`s features and
+				capabilities. Platform was build using TypeScript.
 			</p>
 
 			<Link href="https://crud-react-js.vercel.app/">
